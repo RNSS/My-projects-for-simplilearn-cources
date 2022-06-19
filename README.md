@@ -14,12 +14,12 @@ Project: Building user-based recommendation model for Amazon. 
 
 **Data Science with python (Jul 2021)** 
  
-Project: Customer Service Requests Analysis 
+ Project: Customer Service Requests Analysis 
 
 **Data Science with R (Jul 2021)** 
  
-Project: Comcast Telecom Consumer Complaints.
+ Project: Comcast Telecom Consumer Complaints.
 
 **Git and GitHub Training (Jun 2021)** 
  
-Project: Branching Development Model
+ Project: Branching Development Model
