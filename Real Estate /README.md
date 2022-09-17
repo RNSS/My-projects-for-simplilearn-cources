@@ -15,7 +15,7 @@ Figure out the primary key and look for the requirement of indexing.
 
 Gauge the fill rate of the variables and devise plans for missing value treatment. Please explain explicitly the reason for the treatment chosen for each variable.
 
-Exploratory Data Analysis (EDA):
+**Exploratory Data Analysis (EDA):**
 
 Perform debt analysis. You may take the following steps:
 
