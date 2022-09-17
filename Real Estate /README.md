@@ -24,7 +24,9 @@ Explore the top 2,500 locations where the percentage of households with a second
 Use the following bad debt equation:
 
 Bad Debt = P (Second Mortgage ∩ Home Equity Loan)
+
 Bad Debt = second_mortgage + home_equity - home_equity_second_mortgage
+
 Create pie charts  to show overall debt and bad debt
 
 Create Box and whisker plot and analyze the distribution for 2nd mortgage, home equity, good debt, and bad debt for different cities
